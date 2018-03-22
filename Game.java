@@ -49,7 +49,7 @@ public class Game {
         
 
         // display the view in a frame
-        final JFrame frame = new JFrame("Alireza Gorjiankhanzad's sonic Game");
+        final JFrame frame = new JFrame("Naveed Farouq's sonic Game");
        
        
         

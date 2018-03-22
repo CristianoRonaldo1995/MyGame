@@ -19,7 +19,7 @@ import java.awt.event.ActionListener;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 public class Level3 extends GameLevel implements ActionListener {
 private Sonic sonic;

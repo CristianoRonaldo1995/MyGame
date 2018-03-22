@@ -19,7 +19,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 public class Level2 extends GameLevel implements ActionListener{
 private Sonic sonic;

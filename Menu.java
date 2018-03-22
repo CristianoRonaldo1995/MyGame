@@ -7,7 +7,7 @@ package game;
 
 /**
  *
- * @author frank
+ * @author Naveed Farouq
  */
 public class Menu extends javax.swing.JFrame {
 

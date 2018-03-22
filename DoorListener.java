@@ -10,7 +10,7 @@ import city.cs.engine.CollisionListener;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 public class DoorListener implements CollisionListener {
     private Game game;

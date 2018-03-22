@@ -13,7 +13,7 @@ import city.cs.engine.World;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 public class Door extends StaticBody {
     private static final Shape shape = new BoxShape(1.2f, 2f);

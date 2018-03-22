@@ -7,8 +7,8 @@ import java.awt.Color;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
- */
+ * @author Naveed Farouq
+ *  */
 
 
 /**

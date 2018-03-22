@@ -6,7 +6,7 @@ import org.jbox2d.common.Vec2;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 
 /**

@@ -10,7 +10,7 @@ import org.jbox2d.common.Vec2;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 public abstract class GameLevel extends World {
     private Sonic sonic;

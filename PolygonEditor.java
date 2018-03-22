@@ -291,7 +291,7 @@ public class PolygonEditor extends JPanel
         frame.pack();
         frame.setVisible(true);
     }
-
+  
     /** Update the display and print the current coordinate list to console. */
     private void updateView()
     {

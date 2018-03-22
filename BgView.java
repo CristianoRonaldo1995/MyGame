@@ -14,7 +14,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author Alireza Gorjiankhanzad
+ * @author Naveed Farouq
  */
 public class BgView extends UserView {
     
